@@ -1,0 +1,21 @@
+body {
+  background-color: yellow;
+  font-family: Verdana, sans-serif;
+  font-size: 1.7rem;
+}
+
+p {
+  color: white;
+  background-color: blue;
+  font-size: 1.2rem;
+}
+
+h1 {}
+
+/* DRY * /
+
+/*
+  option + shift + 8 -> {
+
+  option + shift + 9 -> }
+*/
